@@ -4,7 +4,7 @@ Book Coffee Shop is a responsive and modern website built with **HTML5, CSS3, Bo
 It is designed for book lovers, combining the love of literature with the cozy vibe of a coffee shop.  
 Users can explore famous authors, browse popular books, purchase copies, and even download the companion app.
 
-## [](https://github.com/user-attachments/assets/f8d6b0e9-526a-49d8-b634-0dc0d3a4977d)
+[Preview](https://github.com/user-attachments/assets/f8d6b0e9-526a-49d8-b634-0dc0d3a4977d)
 
 ## 🚀 Features
 
@@ -46,7 +46,5 @@ Build a backend with database to manage books and orders.
 
 ## 👩‍💻 Author
 
-Developed by Nour Mohamed
-
-## 📂 Project Structure
+Developed by **Nour Mohamed**.
 
